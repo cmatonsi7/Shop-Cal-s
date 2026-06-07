@@ -6,7 +6,7 @@ date_default_timezone_set('Africa/Johannesburg');
 $dbhost = 'shopcals-db.mysql.database.azure.com';
 $dbname = 'fashiony';
 $dbuser = 'calvinmatonsi';
-$dbpass = 'YOUR_AZURE_DB_PASSWORD';
+$dbpass = 'EDUV4891883!';
 
 define("BASE_URL", "https://shopcals-c3gjcmeuf3hdexak.southafricanorth-01.azurewebsites.net/");
 define("ADMIN_URL", BASE_URL . "admin/");
